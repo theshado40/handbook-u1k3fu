@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://theshado40.github.io/handbook-u1k3fu/sitemap.xml
